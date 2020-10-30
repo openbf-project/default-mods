@@ -1,0 +1,1 @@
+cp -f -r ./lib/** ./../apphost/build/resources/modules

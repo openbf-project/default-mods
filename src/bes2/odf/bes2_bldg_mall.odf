@@ -1,0 +1,9 @@
+[GameObjectClass]
+
+ClassLabel = "prop"
+GeometryName = "bes2_bldg_mall.msh"
+
+[Properties]
+
+GeometryName = "bes2_bldg_mall"
+FoleyFXGroup = "metal_foley"
